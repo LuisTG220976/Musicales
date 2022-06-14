@@ -19,7 +19,7 @@ body{
 }
 header{
     height: 100vh;
-    background-image: linear-gradient(to top, rgb(161, 140, 209,0.39) 0%, rgb(251, 194, 235,0.40) 100%), url(../img/banda6.jpg);
+    background-image: linear-gradient(to top, rgba(125, 94, 197, 0.39) 0%, rgba(197, 165, 188, 0.4) 100%), url(../img/banda6.jpg);
     background-repeat: no-repeat;
     background-size:cover;
     background-attachment: fixed;
@@ -199,7 +199,7 @@ flex-wrap: wrap;
 /**Footer*/
 
 footer{
-    background: #9f8ad0;
+    background: #42297a;
     padding-bottom: 0.1px;
 }
 .footer-content{
